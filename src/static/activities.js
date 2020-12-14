@@ -6942,6 +6942,34 @@ const activities = [
     "average_heartrate": 151.0,
     "average_speed": 3.00859263647899,
     "streak": 1
+  },
+  {
+    "run_id": 1607851651472,
+    "name": "run from gpx",
+    "distance": 2288.7898563573567,
+    "moving_time": "0:14:17.528000",
+    "type": "Run",
+    "start_date": "2020-12-13 09:27:31",
+    "start_date_local": "2020-12-13 17:27:31",
+    "location_country": "\u5c0f\u8425\u8857\u9053, \u4e0a\u57ce\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310009, \u4e2d\u56fd",
+    "summary_polyline": "iurwDido|Ua@~@@pBt@fBSjAgCfE]~DPxFMlHU^l@zDg@vCN`D[PQvBEfa@Qn@s@Sn@g@pD`C~H@vAOXs@w@Br@[nA?BpAZ^Qc@aBT]L^\\c@}@",
+    "average_heartrate": 139.0,
+    "average_speed": 2.669055536795716,
+    "streak": 2
+  },
+  {
+    "run_id": 1607858157321,
+    "name": "run from gpx",
+    "distance": 10348.272021944747,
+    "moving_time": "0:59:58.679000",
+    "type": "Run",
+    "start_date": "2020-12-13 11:15:57",
+    "start_date_local": "2020-12-13 19:15:57",
+    "location_country": "\u5357\u5c71\u8def218-5\u53f7\u81ea\u884c\u8f66\u79df\u8d41\u70b9, \u5357\u5c71\u8def, \u6e05\u6ce2\u8857\u9053, \u4e0a\u57ce\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310002, \u4e2d\u56fd",
+    "summary_polyline": "asrwD{zj|UhH`C~L|HdUs@nD`AzEzEjIbC~ClCbDr@|Io@^RdB~OCjDm@pDxBj\\r@dD~N`b@QdA{DhDbEsCLg@SuByBwGaEiL{AkC_JpC}[tOnBc@bRuJfMkFf@WVaAmAqFo@yKuAgKQwEv@qDDiCsC{ZLaCpAaCPyAx@s|@j@TYZIa@J|Ao@yCe@mJi@k@aBSgAZuFOqCy@{@v@cBgAyAKi@o@kKsBqCsAmNyAkEY_PdA{AWcHN}@uBHcA",
+    "average_heartrate": 164.0,
+    "average_speed": 2.87557518243354,
+    "streak": 2
   }
 ];
 
