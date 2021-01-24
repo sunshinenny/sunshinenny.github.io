@@ -7082,6 +7082,20 @@ const activities = [
     "average_heartrate": 165.0,
     "average_speed": 3.1035117407911605,
     "streak": 1
+  },
+  {
+    "run_id": 1611319287001,
+    "name": "run from gpx",
+    "distance": 11711.648276285736,
+    "moving_time": "1:34:42.496000",
+    "type": "Run",
+    "start_date": "2021-01-22 12:41:27",
+    "start_date_local": "2021-01-22 20:41:27",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "y|dmDua|cV{E|IQdEuL|Q_HtHyKzPiHsF}JkEiNmIgI_BkLsDhBfAdOlDhF|BrOpHbNdJx@AbCyBrJqNtCyChL_Q~@sB?oBj@kBxFuKs@dA@m@y@i@rBtBgAqBJv@Se@{@Il@?Jd@e@m@b@HB^b@_@g@Re@cAVhAx@dAq@kA[yBP~A[mBh@rAm@sCz@bFi@mE^~DScCEfADqAIjA?qBTlBe@YVSTrAo@cAn@dAu@oA^Ec@@t@xAQgBT~BW{C^dDc@sDf@|DgA_IdA|Hm@gEVtDFi@_BmIfBfJa@qCEjBFyBqAy@z@|Dk@i@vAVK^AmBIrAqAeB`AfA^[K`@I_C[zC^u@Vh@o@Uf@MJb@sAi@r@t@Ra@kBm@rBnAY_Bq@xC`AsCFlAYCwA}Bj@bB]DQk@~@J?|@r@Gw@wAl@HLl@m@Vd@Pi@m@t@p@[]Je@oAw@`A~BL{AqBmArB|BKoA@xBVPSgBJf@c@f@b@{@@\\[wBHt@gAHz@|@X[mAiA`AbAH]m@dAv@Vu@_Ad@?Ga@Lf@Gi@Nt@Su@Fp@Yb@Ka@Vn@[o@Pf@B{Cf@jDGc@DT_@E@gCPrDj@Ne@DAeADnAEcBDhBUqAa@CLs@X`Aw@_A`@v@_AVjAH_B?vBBYmAZlAmBJpBIoD[fAHQ`@lAMHe@^v@EcA@bA@{@",
+    "average_heartrate": 109.0,
+    "average_speed": 2.0610042270660167,
+    "streak": 1
   }
 ];
 
