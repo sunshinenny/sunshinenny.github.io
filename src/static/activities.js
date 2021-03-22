@@ -7544,6 +7544,48 @@ const activities = [
     "average_heartrate": 165.0,
     "average_speed": 2.953004686405558,
     "streak": 2
+  },
+  {
+    "run_id": 1616070557376,
+    "name": "run from gpx",
+    "distance": 6749.127730932974,
+    "moving_time": "0:36:47.624000",
+    "type": "Run",
+    "start_date": "2021-03-18 12:29:17",
+    "start_date_local": "2021-03-18 20:29:17",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "y|dmDqb|cVQxAmAfAMbAgCbF?vCkAxBsAz@]vAgExGsG~GuMtRsFeEo\\oQmVkHuLaCsEkC[wHnAqt@ZcGt@_BzAw@hGQrJEbSn@pWpDdRlE|PnHx@pAzAFzBvBhEhAtJpHyEnF",
+    "average_heartrate": 176.0,
+    "average_speed": 3.0571907765692776,
+    "streak": 1
+  },
+  {
+    "run_id": 1616244470922,
+    "name": "run from gpx",
+    "distance": 3865.926506694569,
+    "moving_time": "0:20:48.077000",
+    "type": "Run",
+    "start_date": "2021-03-20 12:47:50",
+    "start_date_local": "2021-03-20 20:47:50",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "{|dmDeb|cVq@^Tl@a@Jo@`CeC|DHjD_FfGOfAqBdDoAx@iClEgAj@e@tAsBlAGl@{H`M_ASgDwCgJsFiKmFa@MDTrWnNxDvCrCsCfKqO`KgLdAwC`OkR",
+    "average_heartrate": 139.0,
+    "average_speed": 3.0975064092155926,
+    "streak": 1
+  },
+  {
+    "run_id": 1616324868648,
+    "name": "run from gpx",
+    "distance": 5404.0008817574435,
+    "moving_time": "0:29:52.352000",
+    "type": "Run",
+    "start_date": "2021-03-21 11:07:48",
+    "start_date_local": "2021-03-21 19:07:48",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "}|dmDma|cVoEtHMzDi@nA{DbFeDrGkNvOkGxKkEsDgKuEkQgLsHeAsBsByFy@Y_A^eCrFmMdDyMzB}DpGcQbAiEEgArAyCRgDZc@~C_@|LtBjBQnFfAnPtFtKfG@h@{BrCBxA^j@}BrD|ChD",
+    "average_heartrate": 167.0,
+    "average_speed": 3.015033253377374,
+    "streak": 2
   }
 ];
 
