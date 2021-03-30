@@ -7628,6 +7628,34 @@ const activities = [
     "average_heartrate": 146.0,
     "average_speed": 2.8511201924835388,
     "streak": 1
+  },
+  {
+    "run_id": 1616846258966,
+    "name": "run from gpx",
+    "distance": 2956.766284982119,
+    "moving_time": "0:14:56.034000",
+    "type": "Run",
+    "start_date": "2021-03-27 11:57:38",
+    "start_date_local": "2021-03-27 19:57:38",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "{zdmD_a|cVq@i@a@f@yE|JDlBc@rAgGjIqBbEgEpE}OfU}GwErGxE|@i@z_@}h@bAaCGaB^qBtCuF",
+    "average_heartrate": 151.0,
+    "average_speed": 3.299837154596945,
+    "streak": 1
+  },
+  {
+    "run_id": 1617013771619,
+    "name": "run from gpx",
+    "distance": 10107.158256391482,
+    "moving_time": "0:55:58.381000",
+    "type": "Run",
+    "start_date": "2021-03-29 10:29:31",
+    "start_date_local": "2021-03-29 18:29:31",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "a}dmDea|cVuE|HUzEcEjF{CpGoOnP}@xCgE|FwF}EmJsDuJmFyBqBcGgBSe@gJiBuFwByCKeJiCkAeAWsKk@y@~@wE~@yn@`@}BGoDf@yA[qB|AmjAJaDhAuAxt@oCdI|@T~EqBxE_@fCvArBuD|H@jCqAxCvB|Ck@bDfDtCm@pAqI~`@lCfB|I|AC~BxFt@lJtCrNrGP`ASlBoApEuBhDzEbClGrFrD`B",
+    "average_heartrate": 149.0,
+    "average_speed": 3.0095329435199525,
+    "streak": 1
   }
 ];
 
