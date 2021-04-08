@@ -7712,6 +7712,34 @@ const activities = [
     "average_heartrate": 153.0,
     "average_speed": 3.091786090091133,
     "streak": 3
+  },
+  {
+    "run_id": 1617621743000,
+    "name": "run from gpx",
+    "distance": 4874.157696135833,
+    "moving_time": "0:25:18",
+    "type": "Run",
+    "start_date": "2021-04-05 11:22:23",
+    "start_date_local": "2021-04-05 19:22:23",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "w}dmDga|cViEvIWfEkE|FsBhEgJ~KaMxQaGsEuTcLmBiBwVmHhBjAvObEf\\lQzEnDzDeDjF_I`A{CvDkC|BqEbIkKv@cBHaDvEyJNeB",
+    "average_heartrate": 162.0,
+    "average_speed": 3.2109075732120114,
+    "streak": 4
+  },
+  {
+    "run_id": 1617799511272,
+    "name": "run from gpx",
+    "distance": 2925.9020630162777,
+    "moving_time": "0:13:46.728000",
+    "type": "Run",
+    "start_date": "2021-04-07 12:45:11",
+    "start_date_local": "2021-04-07 20:45:11",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "a}dmDy`|cVsE|HE`Ek@vAua@dk@}GaF}@GhIrFh@Mp`@yi@v@iBb@uExBoE",
+    "average_heartrate": 170.0,
+    "average_speed": 3.539135075885028,
+    "streak": 1
   }
 ];
 
