@@ -7810,6 +7810,48 @@ const activities = [
     "average_heartrate": 149.0,
     "average_speed": 3.041564937762468,
     "streak": 1
+  },
+  {
+    "run_id": 1619179062671,
+    "name": "run from gpx",
+    "distance": 2489.0635933731196,
+    "moving_time": "0:13:21.333000",
+    "type": "Run",
+    "start_date": "2021-04-23 11:57:42",
+    "start_date_local": "2021-04-23 19:57:42",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "q|dmDib|cVUnAiElHShATzAoAvBga@lj@dA_@tRoXxCwFtIeLzAu@tCmE",
+    "average_heartrate": 130.0,
+    "average_speed": 3.1061538628424383,
+    "streak": 1
+  },
+  {
+    "run_id": 1619263025000,
+    "name": "run from gpx",
+    "distance": 4676.133144668137,
+    "moving_time": "0:26:10",
+    "type": "Run",
+    "start_date": "2021-04-24 11:17:05",
+    "start_date_local": "2021-04-24 19:17:05",
+    "location_country": "\u8def\u6cfd\u592a\u4e00\u7ea7\u516c\u8def, \u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "a}dmDy_|cVth@db@rOsRdBa@rAeAz@}EIcD\\gG~AmFvAcKrDuJTkC`DiL`DyGdKaNbByE`DmC`MgTrCaDnBmE`HyIV{AzBwCa@_EaDaK",
+    "average_heartrate": 155.0,
+    "average_speed": 2.9784287545656922,
+    "streak": 2
+  },
+  {
+    "run_id": 1619268533999,
+    "name": "run from gpx",
+    "distance": 2723.230796263356,
+    "moving_time": "0:15:06.001000",
+    "type": "Run",
+    "start_date": "2021-04-24 12:48:53",
+    "start_date_local": "2021-04-24 20:48:53",
+    "location_country": "\u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+    "summary_polyline": "kp`mDm|`dVThCdBtDG`Co@\\{H`NsEjFk@jBeJxNkCpB_CtF{B|BaB|DcElEmCbFaEhJeBtHkAfBO|AuE~Ma@vH",
+    "average_heartrate": 147.0,
+    "average_speed": 3.005770188182304,
+    "streak": 2
   }
 ];
 
