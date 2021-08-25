@@ -8076,6 +8076,20 @@ const activities = [
     "average_heartrate": 148.0,
     "average_speed": 2.8156775050346106,
     "streak": 1
+  },
+  {
+    "run_id": 1629807279877,
+    "name": "run from gpx",
+    "distance": 4096.987322629398,
+    "moving_time": "0:26:07.123000",
+    "type": "Run",
+    "start_date": "2021-08-24 12:14:39",
+    "start_date_local": "2021-08-24 20:14:39",
+    "location_country": "Luckin Coffee, \u89e3\u653e\u4e1c\u8def, \u56db\u5b63\u9752\u8857\u9053, \u4e0a\u57ce\u533a, \u676d\u5dde\u5e02, \u57ce\u661f\u793e\u533a, \u6d59\u6c5f\u7701, 310026, \u4e2d\u56fd",
+    "summary_polyline": "{`rwDo`u|UPJD_EzA}B~@yCxAuBh@H`@_@?o@pAAlRhPzQ|Mjd@~l@V~@y@z@O~AiAzAi@bCyAx@}@nCsC`Cs@~DcDH_FnHUdCwE|EbEtEjBt@hBWrB_CDiAmGwHg@DuA`D",
+    "average_heartrate": 153.0,
+    "average_speed": 2.6143367959179957,
+    "streak": 2
   }
 ];
 
