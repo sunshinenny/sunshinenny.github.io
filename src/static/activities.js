@@ -8202,6 +8202,34 @@ const activities = [
     "average_heartrate": 150.0,
     "average_speed": 2.90312909107573,
     "streak": 1
+  },
+  {
+    "run_id": 1632046638243,
+    "name": "run from gpx",
+    "distance": 1373.5393655808066,
+    "moving_time": "0:14:39.757000",
+    "type": "Run",
+    "start_date": "2021-09-19 10:17:18",
+    "start_date_local": "2021-09-19 18:17:18",
+    "location_country": "\u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "giomDo_wcVyD]NiD_AV]kAV_HYu@uCOsCZ}Fy@VvG`EYhBNZt@dAHZc@fA^a@o@hBhBbCF",
+    "average_heartrate": 124.0,
+    "average_speed": 1.561271311942737,
+    "streak": 1
+  },
+  {
+    "run_id": 1632053073874,
+    "name": "run from gpx",
+    "distance": 5053.621177152566,
+    "moving_time": "0:28:32.126000",
+    "type": "Run",
+    "start_date": "2021-09-19 12:04:33",
+    "start_date_local": "2021-09-19 20:04:33",
+    "location_country": "\u8def\u6865\u533a, \u53f0\u5dde\u5e02, \u6d59\u6c5f\u7701, 318050, \u4e2d\u56fd",
+    "summary_polyline": "s|dmD_c|cVuEnJa@hFoGzIqAnDkKfKo@jBoIfM}E{D}MoGgRgLw@RaBg@_EgBa@u@uBMqBZ`HdDzJtA|BfAdAvAvVzKpHzEnDkEpAyDp@a@x@sBhGoF~@}B`MuPlCyArDwHaB}B",
+    "average_heartrate": 172.0,
+    "average_speed": 2.951664291735869,
+    "streak": 1
   }
 ];
 
